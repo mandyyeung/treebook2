@@ -3,3 +3,9 @@ mandy:
  last_name: "Yeung"
  email: "mandy@gmail.com"
  profile_name: "mandyyeung"
+
+daniel: 
+ first_name: "Daniel"
+ last_name: "Chin"
+ email: "daniel@gmail.com"
+ profile_name: "danielchin"
